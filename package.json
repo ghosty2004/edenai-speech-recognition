@@ -4,7 +4,10 @@
     "main": "server.js",
     "type": "module",
     "keywords": [],
-    "author": "",
+    "author": "ghosty2004",
+    "scripts": {
+        "start": "node ."
+    },
     "license": "ISC",
     "dependencies": {
         "axios": "^1.6.8",
